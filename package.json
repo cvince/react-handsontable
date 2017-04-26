@@ -1,0 +1,33 @@
+{
+  "name": "react-handsontable",
+  "version": "1.0.0",
+  "description": "React boilerplate with Handsontable",
+  "scripts": {
+    "start": "node server.js",
+    "lint": "eslint src"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0.20",
+    "babel-eslint": "^4.1.3",
+    "babel-loader": "^6.0.1",
+    "babel-preset-es2015": "^6.0.15",
+    "babel-preset-react": "^6.0.15",
+    "babel-preset-stage-0": "^6.0.15",
+    "eslint-plugin-react": "^3.6.2",
+    "expose-loader": "^0.7.1",
+    "react-hot-loader": "^1.3.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.1"
+  },
+  "dependencies": {
+    "handsontable": "^0.26.0",
+    "moment": "^2.18.1",
+    "numbro": "^1.10.1",
+    "pikaday": "^1.5.1",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "react-handsontable": "^0.2.1",
+    "zeroclipboard": "^2.3.0"
+  }
+}
